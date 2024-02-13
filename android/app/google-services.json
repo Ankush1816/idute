@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "474568791761",
+    "firebase_url": "https://bylaive-aeeeb-default-rtdb.firebaseio.com",
+    "project_id": "bylaive-aeeeb",
+    "storage_bucket": "bylaive-aeeeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474568791761:android:53bc1bd7309a063cbf17f0",
+        "android_client_info": {
+          "package_name": "com.example.bylaive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474568791761-gg837og2jsuivt1gnbvt76q9n3j8v5f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bylaive",
+            "certificate_hash": "a6b3d12aee8a50600cd463ec6b2c057056232555"
+          }
+        },
+        {
+          "client_id": "474568791761-vqumc7btalhpg5t79j4bml81bfm46a2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bylaive",
+            "certificate_hash": "1f2be6c26c1b81b770107366073cda016dad9124"
+          }
+        },
+        {
+          "client_id": "474568791761-p519epbj79ldkhs502t6edavnb1qjuc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6X6MkTI9QtvyFov9UwiWNG9JWqPOknok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474568791761-p519epbj79ldkhs502t6edavnb1qjuc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474568791761-46o1f51htirrnqnpnqkhpie5k3umas3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bylaive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474568791761:android:36e9010a0a17b400bf17f0",
+        "android_client_info": {
+          "package_name": "com.example.idute.idute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474568791761-p519epbj79ldkhs502t6edavnb1qjuc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6X6MkTI9QtvyFov9UwiWNG9JWqPOknok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474568791761-p519epbj79ldkhs502t6edavnb1qjuc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474568791761-46o1f51htirrnqnpnqkhpie5k3umas3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bylaive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474568791761:android:c1ddbe8a75ae75fbbf17f0",
+        "android_client_info": {
+          "package_name": "com.whimsibuy.bylaive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474568791761-sop43m5otrrqtf6ivr4s9r1rktcvl50o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whimsibuy.bylaive",
+            "certificate_hash": "1f2be6c26c1b81b770107366073cda016dad9124"
+          }
+        },
+        {
+          "client_id": "474568791761-p519epbj79ldkhs502t6edavnb1qjuc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6X6MkTI9QtvyFov9UwiWNG9JWqPOknok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474568791761-p519epbj79ldkhs502t6edavnb1qjuc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474568791761-46o1f51htirrnqnpnqkhpie5k3umas3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bylaive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
