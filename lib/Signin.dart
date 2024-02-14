@@ -6,6 +6,23 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:idute/Home.dart';
 
 
+class SigninEvent {}
+
+
+abstract class SigninState {}
+
+class SigninInitial extends SigninState {}
+
+class SigninLoading extends SigninState {}
+
+class SigninSuccess extends SigninState {}
+
+class SigninFailure extends SigninState {
+  final String errorMessage;
+
+  SigninFailure(this.errorMessage);
+}
+
 class Signin extends StatefulWidget {
   const Signin({Key? key}) : super(key: key);
 
@@ -126,7 +143,7 @@ class _SigninState extends State<Signin> {
 
                           Navigator.push(
                             context,
-                            MaterialPageRoute(builder: (context) => homeWidget),
+                            MaterialPageRoute(builder: (context) => Home()),
                           );
 
                         } on FirebaseAuthException catch (e) {

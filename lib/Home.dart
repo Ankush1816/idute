@@ -56,7 +56,7 @@ class _HomeState extends State<Home> {
                     onTap: (){
                       Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) =>UsersWidget),
+                        MaterialPageRoute(builder: (context) =>Users()),
                       );
                     },
                     leading: Icon(
